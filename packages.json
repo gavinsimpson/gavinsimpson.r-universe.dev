@@ -1,0 +1,34 @@
+[
+    {
+        "package": "gratia",
+        "url": "https://github.com/gavinsimpson/gratia"
+    },
+    {
+        "package": "permute",
+        "url": "https://github.com/gavinsimpson/permute"
+    },
+    {
+        "package": "analogue",
+        "url": "https://github.com/gavinsimpson/analogue"
+    },
+    {
+        "package": "analogueExtra",
+        "url": "https://github.com/gavinsimpson/analogueExtra"
+    },
+    {
+        "package": "ggvegan",
+        "url": "https://github.com/gavinsimpson/ggvegan"
+    },
+    {
+        "package": "cocorresp",
+        "url": "https://github.com/gavinsimpson/cocorresp"
+    },
+    {
+        "package": "coenocliner",
+        "url": "https://github.com/gavinsimpson/coenocliner"
+    },
+    {
+        "package": "temporalEF",
+        "url": "https://github.com/gavinsimpson/temporalEF"
+    }
+]
